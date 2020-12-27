@@ -6,5 +6,5 @@ Ebbe az adatbázisba kell futatni a mellékelt sql-t.
 ## Főoldal
 A projekt főoldala: "index.php".
 ### Signup
-Nem volt a feladat része, de megvalósítottam a regisztrációs logikát is a saját tudásom szerint. 
-
+Nem volt a feladat része, de készítettem egy oldalt másik felhasználónevek regisztrálására. Ezt az oldalt el lehet érni bejelentkezés nélkül. 
+Ezt az oldalt is igyekeztem a megadott design szerint kialakítani.
